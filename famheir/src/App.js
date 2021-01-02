@@ -4,7 +4,7 @@ import Login from "./component/Auth/Login";
 import TopNav from "./component/Layout/TopNav.js";
 
 function App() {
-  return <TopNav />;
+  return <h1>Hi</h1>
 }
 
 export default App;
