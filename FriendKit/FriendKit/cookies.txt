@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.thedesigninspiration.com	TRUE	/	FALSE	1999999999	__cfduid	dbf3d58c8e94d001f7e8db1a8b0dc01881609592266
+cdn.thedesigninspiration.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

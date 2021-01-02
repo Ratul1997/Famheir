@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 02 Jan 2021 18:57:06 at https://friendkit.cssninja.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://friendkit.cssninja.io/ -O1 "D:\Website Template\FriendKit\FriendKit" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:59:32	Error: 	"Not Found" (404) at link https://friendkit.cssninja.io/assets/img/loading.gif (from https://friendkit.cssninja.io/assets/css/app.css)
+18:59:32	Warning: 	File not parsed, looks like binary: https://friendkit.cssninja.io/assets/fonts/materialdesignicons-webfont.woff2?v=3.9.97
+18:59:32	Error: 	"Not Found" (404) at link https://friendkit.cssninja.io/assets/css/fonts/dripicons-v2.eot (from https://friendkit.cssninja.io/assets/css/app.css)
+18:59:32	Error: 	"Not Found" (404) at link https://friendkit.cssninja.io/assets/css/fonts/dripicons-v2.eot? (from https://friendkit.cssninja.io/assets/css/app.css)
+18:59:32	Error: 	"Not Found" (404) at link https://friendkit.cssninja.io/assets/css/fonts/dripicons-v2.woff (from https://friendkit.cssninja.io/assets/css/app.css)
+18:59:32	Error: 	"Not Found" (404) at link https://friendkit.cssninja.io/assets/css/fonts/dripicons-v2.ttf (from https://friendkit.cssninja.io/assets/css/app.css)
+18:59:32	Error: 	"Not Found" (404) at link https://friendkit.cssninja.io/assets/css/fonts/dripicons-v2.svg (from https://friendkit.cssninja.io/assets/css/app.css)
+18:59:32	Warning: 	Retry after error -4 (Incorrect length (135854 Bytes, 276490 expected)) at link https://friendkit.cssninja.io/assets/img/demo/unsplash/10.jpg (from https://friendkit.cssninja.io/profile-main.html)
+18:59:35	Error: 	"Not Found" (404) at link https://assets.adidas.com/img/w_600,h_600,f_auto,q_auto:sensitive,fl_lossy/51f290d6a0b64f44a969a97000cf5774_9366/Dress_Black_DX3689_22_model.jpg (from https://friendkit.cssninja.io/elements.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 29 seconds : 349 links scanned, 340 files written (51796388 bytes overall) [39248392 bytes received at 263412 bytes/sec], 13927815 bytes transferred using HTTP compression in 78 files, ratio 9%, 19.3 requests per connection
+(7 errors, 2 warnings, 0 messages)
