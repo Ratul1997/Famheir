@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 03 Jan 2021 04:27:13 at http://wpkixx.com/html/pitnik/newsfeed.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://wpkixx.com/html/pitnik/newsfeed.html -O1 "D:\Website Template\Pitnik\pitnik" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+04:27:14	Warning: 	Found for wpkixx.com/robots.txt
+04:27:14	Warning: 	File has moved from wpkixx.com/robots.txt to http://grameenphone.portal.ncnd.mobi/nd/?end_system_error_code=404
+04:51:47	Warning: 	Unexpected socket error during pre-loop
+04:51:47	Warning: 	Unexpected socket error during pre-loop
+04:51:49	Error: 	"Forbidden" (403) at link vjs.zencdn.net/oceans-clip.jpg (from wpkixx.com/html/pitnik/pittube-detail.html)
+04:51:49	Warning: 	Retry after error -4 (Incorrect length (1130384 Bytes, 1243548 expected)) at link wpkixx.com/html/pitnik/images/resources/error500.gif (from wpkixx.com/html/pitnik/error-500.html)
+04:51:49	Warning: 	Retry after error -4 (No data (connection closed)) at link wpkixx.com/html/pitnik/images/resources/product4.jpg (from wpkixx.com/html/pitnik/shop-detail.html)
+04:51:49	Warning: 	Retry after error -4 (Receive Error) at link wpkixx.com/html/pitnik/images/resources/single-comment1.jpg (from wpkixx.com/html/pitnik/shop-detail.html)
+04:51:49	Warning: 	Retry after error -4 (Receive Error) at link wpkixx.com/html/pitnik/fonts/VideoJS.eot (from wpkixx.com/html/pitnik/css/video-player.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 24 minutes 44 seconds : 1727 links scanned, 1721 files written (34403243 bytes overall) [27464568 bytes received at 18507 bytes/sec], 10735219 bytes transferred using HTTP compression in 136 files, ratio 22%, 12.3 requests per connection
+(1 errors, 8 warnings, 0 messages)

@@ -1,16 +1,25 @@
-import logo from "./logo.svg";
-import "./App.css";
-import Login from "./component/Auth/Login";
-import TopNav from "./component/Layout/TopNav.js";
-import BasicInfo from "./component/UserProfile/UserTimelinePanel/BasicInfo/BasicInfo";
-import UserTimeLinePanelIndex from './component/UserProfile/UserTimelinePanel'
+import logo from './logo.svg';
+import './App.css';
+
 function App() {
   return (
-    <>
-{/* <TopNav/> */}
-<UserTimeLinePanelIndex/>
-    </>
-  )
+    <div className="App">
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Edit <code>src/App.js</code> and save to reload.
+        </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
+      </header>
+    </div>
+  );
 }
 
 export default App;

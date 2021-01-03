@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.wpkixx.com	TRUE	/	FALSE	1999999999	__cfduid	d14cf691aec1735c4dc072f966e032eb71609627910
+wpkixx.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
